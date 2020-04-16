@@ -1,4 +1,7 @@
 #!/bin/python3
+#######################################################
+#        This Algorithm is created by FEBIN           #
+#######################################################
 def fr_hash(password2):
 	password1=password2
 	password=password1
