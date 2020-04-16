@@ -3,6 +3,7 @@
 ### This Repository contains my own text encryption algorithm and My own custom HASH algorithm.
 --------------------------------------------------------------------------------------------------------------------------
 ## FR_HASH:
+###     This is a strong and simple hash algorithm created by me, it creates 52 bit hash for your passwords in english text
 --------------------------------------------------------------------------------------------------------------------------
     1) open console
     2) ./fr_hash.py <password>
