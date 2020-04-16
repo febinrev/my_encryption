@@ -5,7 +5,7 @@
 def fr_hash(password2):
 	password1=password2
 	password=password1
-	alpha="Í .abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@#$!^&*{}%/?><[]~_-=:;'1234567890"
+	alpha=" .abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ@#$!^&*{}%/?><[]~_-=:;'1234567890"
 	a="@#$!^&*{}%/?><[]~abcdef PQRST_-'"
 	b="f3brEV14AB90FRLx623758UZabcdeQYD"
 	trans=str.maketrans(a,b)
